@@ -19,4 +19,4 @@ The target audience for this project is educators and students seeking animal ed
 
 How to use the Animal Repository project:
 
-1. Clone the repository: ```bash git clone https://github.com/your-username/animal-repository.git cd animal-repository
+1. Clone the repository: ```bash git clone https://github.com/ArooSB/Zootopia-Api cd Zootopia-Api
