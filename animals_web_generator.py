@@ -136,10 +136,10 @@ def main():
 
     animals_data = data_fetcher.fetch_data(animal_name)
     html_content = generate_full_html(
-        "animals.html", animals_data, animal_name
+        "animals_template.html", animals_data, animal_name
     )
-    overwrite_html("animals.html", html_content)
-    print("Website was successfully generated in the file animals.html.")
+    overwrite_html("animals_template.html", html_content)
+    print("Website was successfully generated in the file animals_template.html.")
 
 if __name__ == "__main__":
     main()
